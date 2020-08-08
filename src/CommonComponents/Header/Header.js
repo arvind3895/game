@@ -8,8 +8,8 @@ function Header({ dispatch, points }) {
         <div className="col-2 logo-wrapper">
           <img src={logo} />
         </div>
-        <div className="col-6 app-header-title">Soul Mate</div>
-        <div className="col-4 d-flex right-align">
+        <div className="col-4 app-header-title">Soul Mate</div>
+        <div className="col-6 d-flex right-align">
           <div className="points-wrapper">
             level {Math.floor(points / 5)}
             <br />

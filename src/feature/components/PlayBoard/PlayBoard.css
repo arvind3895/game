@@ -3,7 +3,7 @@
   padding: 25px;
 }
 .game-board .board {
-  min-width: 750px;
+  min-width: 100%;
   min-height: 400px;
   background-image: url("../../../assets/background.jpeg");
   background-repeat: no-repeat;
