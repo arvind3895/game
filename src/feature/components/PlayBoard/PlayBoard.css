@@ -1,0 +1,12 @@
+.game-board {
+  position: relative;
+  padding: 25px;
+}
+.game-board .board {
+  min-width: 750px;
+  min-height: 400px;
+  background-image: url("../../../assets/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}

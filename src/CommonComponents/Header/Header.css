@@ -1,0 +1,21 @@
+.header {
+  background: #001529;
+  color: #fff;
+}
+.app-header-title {
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.points-wrapper {
+  padding-right: 10px;
+  text-align: right;
+}
+.header .right-align {
+  justify-content: flex-end;
+}
+.logo-wrapper img {
+  height: 40px;
+}

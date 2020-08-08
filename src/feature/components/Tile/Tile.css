@@ -1,0 +1,13 @@
+.tile {
+  height: 100px;
+  width: 14.25%;
+  background-color: #ffffff;
+  color: black;
+  position: absolute;
+  text-align: center;
+}
+.tile img {
+  height: calc(100% - 20px);
+  width: 100%;
+  object-fit: contain;
+}
